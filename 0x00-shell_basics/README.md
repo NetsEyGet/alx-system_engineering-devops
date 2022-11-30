@@ -1,1 +1,1 @@
-script that creates a directory named on directory 
+Move the file betty from another  directory 
